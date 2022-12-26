@@ -3,4 +3,6 @@
 This project will apply all HTML,CSS lessons I have learned from the Odin Project
 Foundational course before jumping into the Javascript foundation course.
 
+result:
+https://seouldavid.github.io/Landing_a_page/
 
